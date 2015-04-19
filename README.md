@@ -1,2 +1,2 @@
 # workflow
-Simple Python workflow management experiment
+Simple Python workflow management experiment.
